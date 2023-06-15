@@ -1,8 +1,6 @@
 ---
 title: "🪴 Forato's Digital Garden"
 enableToc: false
-tags:
-	- home
 ---
 # Home
 
