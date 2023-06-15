@@ -1,8 +1,0 @@
-{
-  "alwaysUpdateLinks": true,
-  "vimMode": true,
-  "newFileLocation": "root",
-  "newFileFolderPath": "inbox",
-  "attachmentFolderPath": "files",
-  "newLinkFormat": "absolute"
-}
