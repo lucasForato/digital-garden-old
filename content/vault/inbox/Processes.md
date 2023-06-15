@@ -1,0 +1,3 @@
+---
+aliases: processes, process, Process
+---

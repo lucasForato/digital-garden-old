@@ -1,0 +1,3 @@
+---
+aliases: Threads, thread, threads
+---
