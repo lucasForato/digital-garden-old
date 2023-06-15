@@ -1,5 +1,5 @@
 ---
-title: 🪴 Forato's Digital Garden
+title: "🪴 Forato's Digital Garden"
 enableToc: false
 tags:
 	- home
