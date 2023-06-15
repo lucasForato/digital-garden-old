@@ -1,7 +1,12 @@
 ---
 title: 🪴 Forato's Digital Garden
 enableToc: false
+tags:
+	- home
 ---
+# Home
 
-# Glosary
-hello world
+Below is a list of all the posts in this digital garden.
+
+## Architecture Patterns
+[[notes/test|test]]
