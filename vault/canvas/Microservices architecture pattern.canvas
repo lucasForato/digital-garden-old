@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"8db439b77727222d","x":-103,"y":200,"width":400,"height":400,"type":"file","file":"inbox/Microservices Architecture.md"},
+		{"type":"file","file":"Microservices Architecture.md","id":"6f1420262e94ce5d","x":460,"y":-180,"width":520,"height":400},
+		{"type":"file","file":"Service Components.md","id":"d8efa3c557172282","x":520,"y":320,"width":400,"height":400},
+		{"type":"file","file":"Microservices Architecture Pattern Image.png","id":"71fb2960de573bad","x":-40,"y":-111,"width":400,"height":263},
+		{"id":"71bc2ab6b070b3a4","x":-99,"y":414,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"ebe4b18fc9cdbbb3","fromNode":"71fb2960de573bad","fromSide":"right","toNode":"6f1420262e94ce5d","toSide":"left"},
+		{"id":"8a6c21dfc24d3b7e","fromNode":"6f1420262e94ce5d","fromSide":"bottom","toNode":"d8efa3c557172282","toSide":"top","toEnd":"none"}
+	]
+}
