@@ -5,7 +5,7 @@ aliases: architecture pattern, architecture patterns, Architecture Pattern
 [[Event-driven Architecture]] => highly scalable, but difficult to maintain.
 
 ---
-[[Layered Architecture]] => not so highly scalable, but very easy to maintain.
+[[private/legacy/Layered Architecture]] => not so highly scalable, but very easy to maintain.
 
 ---
 [[Microkernel Architecture]] => an architecture pattern that allows plugins and is used in some operating systems.

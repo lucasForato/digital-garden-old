@@ -3,7 +3,7 @@ For example, a single event to place a stock trade might require you to first va
 
 ---
 ## REMINDS ME OF
-[[Layered Architecture]] because you have many layers of things that have to happen for a request to finish.
+[[private/legacy/Layered Architecture]] because you have many layers of things that have to happen for a request to finish.
 
 ---
 ## REVIEWS

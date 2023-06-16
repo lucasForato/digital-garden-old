@@ -1,6 +1,6 @@
 # DEFINITION
 
-Global modules is a concept introduced by the [[Layered Architecture]] pattern, but there they are know as open layers. In [[NestJS]], global modules are modules that can be accessed by any other module in an application.
+Global modules is a concept introduced by the [[private/legacy/Layered Architecture]] pattern, but there they are know as open layers. In [[NestJS]], global modules are modules that can be accessed by any other module in an application.
 
 ---
 
