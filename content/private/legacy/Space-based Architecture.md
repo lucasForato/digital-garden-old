@@ -6,7 +6,7 @@ The pattern gets its name from [[tuple space]]. The pattern removes the central 
 
 ---
 ## COMPONENTS
-There are two main components in this [[Architecture Patterns|architecture pattern]], the [[Processing Unit]] and the [[Virtualized Middleware]]
+There are two main components in this [[private/legacy/Architecture Patterns|architecture pattern]], the [[Processing Unit]] and the [[Virtualized Middleware]]
 
 ---
 ## EXAMPLE IMAGE
