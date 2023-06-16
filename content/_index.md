@@ -1,7 +1,8 @@
 ---
-title: "🪴 Forato's Digital Garden"
+title: "Home"
 enableToc: false
 ---
+
 # Home
 
 Welcome to my digital garden!
@@ -13,4 +14,5 @@ I encourage you to engage with me by leaving messages, sharing your thoughts, or
 Welcome once again, and happy exploring!
 
 ## Topics
+
 [[notes/test|test]]
