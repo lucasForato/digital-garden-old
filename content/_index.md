@@ -15,3 +15,4 @@ Welcome once again, and happy exploring!
 
 ## Topics
 [[notes/Architecture Patterns|Architecture Patterns]]
+[[notes/Computer Networks|Computer Networks]]
