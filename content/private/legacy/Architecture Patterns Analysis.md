@@ -1,1 +1,0 @@
-![[Architecture Patterns Analysis Image.png]]

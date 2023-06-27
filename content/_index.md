@@ -14,5 +14,7 @@ I encourage you to engage with me by leaving messages, sharing your thoughts, or
 Welcome once again, and happy exploring!
 
 ## Topics
+
 [[notes/Architecture Patterns|Architecture Patterns]]
+
 [[notes/Computer Networks|Computer Networks]]

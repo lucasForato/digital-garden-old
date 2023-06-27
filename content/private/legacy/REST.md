@@ -1,4 +1,0 @@
----
-alias: rest
----
-# DEFINITION

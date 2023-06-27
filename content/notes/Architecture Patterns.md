@@ -12,7 +12,5 @@ The first pattern I want to talk about is the layered architecture pattern. This
 
 A layered architecture consists of many **horizontal layers** that each take care of one specific task, this makes it possible to isolate changes to specific components.
 
-
-
-
-#seed
+## [[Event-driven Architecture]]
+In this architecture, the system is built around handling and responding to [[Event|events]]. Instead of executing a predefined sequence of steps, the system listens for [[Event|events]] and reacts accordingly. Events propagate in the system through the [[Pub-Sub Pattern]]
