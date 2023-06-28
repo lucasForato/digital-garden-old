@@ -21,8 +21,7 @@ Networks can also be classified by their effectiveness by the distance they cove
 
 [[Wide Area Network]]
 
-![network by scale](images/networks by scale.png)
-![[images/networks by scale.png]]
+![[notes/images/networks_by_scale.png]]
 
 ## How to connected different types of networks together
 

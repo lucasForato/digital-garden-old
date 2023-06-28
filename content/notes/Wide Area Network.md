@@ -22,11 +22,11 @@ The job of the subnet is carrying messages from host to host. The subnet consist
 
 WANs can be connected to each other through a cable, like the image below:
 
-![[images/wide area network.png]]
+![[notes/images/wide_area_network.png]]
 
 Or they can be connected through the internet and a [[VPN]], as shown in the image below:
 
-![[images/wide area network internet.png]]
+![[notes/images/wide_area_network_internet.png]]
 
 If two routers that are not directly connected to each other wish to communicate, they have to do it indirectly through other routers, creating a path of communication that is the shortest and most effective. The path is determined by a **routing algorithm**.
 

@@ -11,7 +11,7 @@ Local area networks can be built using **Wireless** or **Cables**.
 
 The access point is the central device that distributes packets across all devices.
 
-![[images/access point.png]]
+![[notes/images/access_point.png]]
 
 ## Wireless
 
@@ -39,7 +39,7 @@ Wired networks can also be divided into two categories based on how the channel 
 
 In this topology, many computers are connected to a device called a **switch**, the switch has many ports that are connected to each computer, the job of the switch is receiving and sending packets  through the network. Two or more switches can be connected to each other to offer more ports to connect to more computers.
 
-![[images/Ethernet.png]]
+![[notes/images/Ethernet.png]]
 
 It is possible to create a **VLAN** or **Virtual LAN**, which colors the ports of the switch in specific color codes, where one color does not interact with another color, as if they were in different **LANs**.
 
