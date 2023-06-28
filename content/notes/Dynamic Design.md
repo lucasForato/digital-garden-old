@@ -1,6 +1,7 @@
 ---
 title: "Dynamic Design"
 ---
+
 # Definition
 
 In a LAN (Local Area Network) network, dynamic allocation of channels refers to the process of assigning communication channels or frequencies to different devices or nodes on the network dynamically. It is a method used to manage and optimize the use of available channels in order to avoid interference and ensure efficient data transmission.
@@ -13,4 +14,4 @@ Dynamic channel allocation can also be used in wired LANs, although it is less c
 
 Overall, dynamic allocation of channels in LAN networks aims to optimize the use of available resources, reduce interference, and improve the efficiency of data transmission, ultimately enhancing the performance and reliability of the network.
 
-#work-in-progress 
+#work-in-progress

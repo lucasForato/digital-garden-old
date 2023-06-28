@@ -1,7 +1,9 @@
 ---
 title: "Computer Networks"
 ---
+
 # Transmission Technologies
+
 There are two types of transmission technologies:
 
 [[Broadcast]]
@@ -9,6 +11,7 @@ There are two types of transmission technologies:
 [[Point-to-point transmission]]
 
 ## Scale
+
 Networks can also be classified by their effectiveness by the distance they cover. Different technologies are used at different scales.
 
 ### Examples:
@@ -20,10 +23,6 @@ Networks can also be classified by their effectiveness by the distance they cove
 [[Metropolitan Area Network]]
 
 [[Wide Area Network]]
-
-![[notes/images/networks_by_scale.png]]
-
-![networks_by_scale](./images/networks_by_scale.png)
 
 ![networks_by_scale](notes/images/networks_by_scale.png)
 
