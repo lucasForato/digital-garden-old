@@ -5,6 +5,7 @@ title: "Metropolitan Area Network"
 
 This network covers a city, a good example of **MANs** is the television networks. Televisions are connected to cables that are connected to antennas that receive signal from another antenna that sits on top of a hill and distribute signal.
 
+![Image](../images/Metropolitan Area Network.png)
 ![[images/Metropolitan Area Network.png]]
 
 Cable television is not the only MAN, though. Recent developments in high-
