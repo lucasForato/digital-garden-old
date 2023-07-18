@@ -18,3 +18,5 @@ Welcome once again, and happy exploring!
 [[notes/Architecture Patterns|Architecture Patterns]]
 
 [[notes/Computer Networks|Computer Networks]]
+
+[[notes/AWS|AWS]]
