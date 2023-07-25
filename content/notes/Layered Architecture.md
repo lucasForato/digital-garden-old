@@ -6,7 +6,7 @@ title: "Layered Architecture"
 
 Layered Architectures are widely used in software development in many fields, such as: networking, database systems, operating systems, web development, and many more. It is highly popular for its simplicity yet effectiveness for solving problems.
 
-![layered_architecture](layered_architecture.png)
+![layered_architecture](notes/images/layered_architecture.png)
 
 When a request is being processed, it acts as a needle, piercing through the layers until it reaches the bottom one, then coming back with a response.
 
@@ -42,4 +42,4 @@ Layered architectures are the most widely spread architecture pattern in softwar
 
 The downside with layered architectures is that they are usually slow in terms of processing requests, so an application that needs to be super fast might not use them. The image below shows some other aspects of layered architectures compared to other architecture patterns.
 
-![pattern_analysis](pattern_analysis.png)
+![pattern_analysis](notes/images/pattern_analysis.png)
