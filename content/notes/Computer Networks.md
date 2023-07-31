@@ -32,6 +32,12 @@ The general name for a machine that makes a connection between two or more netwo
 
 ## [[Protocol Hierarchies]]
 
-To reduce their design complexity, most networks are organized as a stack of layers or levels, each one built upon the one below it. The number of layers, the name of each layer, the contents of each layer, and the function of each layer differ from network to network. The purpose of each layer is to offer certain services to the higher layers while shielding those layers from the details of how the offered services are actually implemented. In a sense, each layer is a kind of virtual machine, offering certain services to the layer above it.
+To reduce their design complexity, most networks are organized as a stack of layers or levels, such as in a [[Layered Architecture]], each one built upon the one below it. The number of layers, the name of each layer, the contents of each layer, and the function of each layer differ from network to network. The purpose of each layer is to offer certain services to the higher layers while shielding those layers from the details of how the offered services are actually implemented. In a sense, each layer is a kind of virtual machine, offering certain services to the layer above it.
 
 ## [[Network Software]]
+
+Network software refers to a collection of programs and applications designed to facilitate communication and data exchange between devices within a computer network. It plays a crucial role in performing connections and dealing with the unreliable environment which is the internet through the use of layers of abstraction.
+
+## [[OSI model]]
+
+The **OSI (Open Systems Interconnection)** model is an international conceptual framework that standardizes the functions of computing system into seven distinct layers. Developed by the **International Organization for Standardization (ISO)**, it serves as a guideline to facilitate communication between different hardware and software components within a networked system.
