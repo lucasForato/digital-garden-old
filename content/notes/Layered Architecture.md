@@ -2,6 +2,8 @@
 title: "Layered Architecture"
 ---
 
+> **Font:** Software Architecture Patterns - Mark Richards
+
 # Layered Architecture
 
 Layered Architectures are widely used in software development in many fields, such as: networking, database systems, operating systems, web development, and many more. It is highly popular for its simplicity yet effectiveness for solving problems.
@@ -14,11 +16,11 @@ We are going to continue talking about layered architectures in the context of a
 
 ## Interface Layer
 
-The interface layer is responsible for receiving requests an returning responses to the client. The interface layer normally follows some type of protocol, such as [[GraphQL]], [[REST]], [[gRPC]], or any other. 
+The interface layer is responsible for receiving requests an returning responses to the client. The interface layer normally follows some type of protocol, such as [[GraphQL]], [[REST]], [[gRPC]], or any other.
 
 ## Domain Layer
 
-It is also called "business logic layer" and it is responsible for applying business logic to the request through modules and [[Use Cases]].  The domain layer is also responsible for: verifying the data sent by the request, dealing with errors, talking to the persistence layer, and managing state.
+It is also called "business logic layer" and it is responsible for applying business logic to the request through modules and [[Use Cases]]. The domain layer is also responsible for: verifying the data sent by the request, dealing with errors, talking to the persistence layer, and managing state.
 
 ## Persistence Layer
 
@@ -41,5 +43,3 @@ This layer also servers other layers and it responsible for offering fundamental
 Layered architectures are the most widely spread architecture pattern in software development, they are very good for projects that are starting and do not have a clear perspective of which architecture pattern that they are going to use.
 
 The downside with layered architectures is that they are usually slow in terms of processing requests, so an application that needs to be super fast might not use them. The image below shows some other aspects of layered architectures compared to other architecture patterns.
-
-![pattern_analysis](notes/images/pattern_analysis.png)

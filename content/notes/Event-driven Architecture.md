@@ -22,8 +22,14 @@ In this architecture, the system is built around handling and responding to [[Ev
 
 The event-driven architecture has two very distinct topologies, we must study them separately:
 
-[[Mediator Topology]] => topology for requests that have many steps to complete its job.
+### Mediator Topology
 
-[[Broker Topology]] => fewer steps to complete its job.
+[[Mediator Topology]]
 
-#work-in-progress
+Topology for requests that have many steps to complete its job.
+
+### Broker Topology
+
+[[Broker Topology]]
+
+fewer steps to complete its job.
