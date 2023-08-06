@@ -30,8 +30,17 @@ The microkernel architecture pattern is a good choice for products that are mean
 
 ## Microservices Architecture
 
+[[Microservices Architecture]]
+
+This pattern consists of separated units of deployment that are each responsible for one service of the application. The microservices pattern allows businesses to use different languages, frameworks, and architectures for each service, providing more efficiency for the specific needs of each feature. 
+
 ## Space-based Architecture
 
-# Conclusion
+[[Space-based Architecture]]
+
+The space-based pattern (also called cloud architecture) is all about making applications really good at handling lots of work without slowing down. Instead of relying on one central database, it uses copies of data stored in memory across many computers. This makes it super fast and can handle a huge amount of work.
+## Conclusion
+
+There is no architecture pattern that serves all business purposes. Each pattern will be better for certain scenarios and the job of a software engineer is measuring their efficiency for their business needs. The image below shows a comparison between the patterns presented, exposing their pros and cons in an illustrative way.  
 
 ![pattern_analysis](notes/images/pattern_analysis.png)

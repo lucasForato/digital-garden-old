@@ -4,7 +4,7 @@ title: "Microkernal Architecture"
 
 > **Font:** Software Architecture Patterns - Mark Richards
 
-# Introduction
+# Definition
 
 The Microkernel architecture pattern consists of two main components, the _core system_ and the _plugins_. The _core system_ is responsible for providing the main functionality of the application, whereas the _plugins_ are responsible for extending the application with new features that are completely isolated from the _core system_ as illustrated in the following image.
 
